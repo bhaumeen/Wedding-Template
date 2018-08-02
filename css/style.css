@@ -132,7 +132,7 @@
 .mainservice{
   background-color: rgba(175, 148, 83,0.8);
   box-sizing: padding-box;
-  border: 3px solid rgba(175, 148, 83,1);
+  border: 2px solid rgba(175, 148, 83,1);
   padding: 0.75em;
   background-clip: content-box;
   text-indent: 20px;
