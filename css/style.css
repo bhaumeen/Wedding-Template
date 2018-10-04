@@ -9,6 +9,7 @@
 }
 .nav-item{
     padding: 1.3em 1.3em;
+    transition: 0.3s;
 }
 .nav-link{
     font-family: 'Montserrat', 'Lato', sans-serif;
@@ -148,4 +149,10 @@
 
 .cp{
   background-color: #695830;
+}
+
+
+.footer-list-link{
+    color:white;
+    transition: 0.3s;
 }
